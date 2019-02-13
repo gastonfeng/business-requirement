@@ -1,0 +1,128 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* business_requirement_deliverable_resource_template
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 10.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"X-Generator: Poedit 2.2.1\n"
+"Last-Translator: \n"
+"Language: zh_CN\n"
+
+#. module: business_requirement_deliverable_resource_template
+#: model:ir.model,name:business_requirement_deliverable_resource_template.model_business_requirement_deliverable
+msgid "Business Requirement Deliverable"
+msgstr "业务需求可交付"
+
+#. module: business_requirement_deliverable_resource_template
+#: model:ir.model.fields,field_description:business_requirement_deliverable_resource_template.field_product_product_resource_lines
+#: model:ir.model.fields,field_description:business_requirement_deliverable_resource_template.field_product_template_resource_lines
+msgid "Business Requirement Resources"
+msgstr "业务需求资源"
+
+#. module: business_requirement_deliverable_resource_template
+#: model:ir.model.fields,field_description:business_requirement_deliverable_resource_template.field_business_requirement_resource_template_create_uid
+msgid "Created by"
+msgstr "创建者"
+
+#. module: business_requirement_deliverable_resource_template
+#: model:ir.model.fields,field_description:business_requirement_deliverable_resource_template.field_business_requirement_resource_template_create_date
+msgid "Created on"
+msgstr "创建时间"
+
+#. module: business_requirement_deliverable_resource_template
+#: model:ir.ui.view,arch_db:business_requirement_deliverable_resource_template.product_template_only_form_view
+msgid "Default Resource Template Lines"
+msgstr "缺省资源模版明细"
+
+#. module: business_requirement_deliverable_resource_template
+#: model:ir.model.fields,field_description:business_requirement_deliverable_resource_template.field_business_requirement_resource_template_display_name
+msgid "Display Name"
+msgstr "显示名称"
+
+#. module: business_requirement_deliverable_resource_template
+#: model:ir.model.fields,field_description:business_requirement_deliverable_resource_template.field_business_requirement_resource_template_id
+msgid "ID"
+msgstr "ID"
+
+#. module: business_requirement_deliverable_resource_template
+#: model:ir.model.fields,field_description:business_requirement_deliverable_resource_template.field_business_requirement_resource_template___last_update
+msgid "Last Modified on"
+msgstr "最后修改时间"
+
+#. module: business_requirement_deliverable_resource_template
+#: model:ir.model.fields,field_description:business_requirement_deliverable_resource_template.field_business_requirement_resource_template_write_uid
+msgid "Last Updated by"
+msgstr "最后更新者"
+
+#. module: business_requirement_deliverable_resource_template
+#: model:ir.model.fields,field_description:business_requirement_deliverable_resource_template.field_business_requirement_resource_template_write_date
+msgid "Last Updated on"
+msgstr "最后更新时间"
+
+#. module: business_requirement_deliverable_resource_template
+#: model:ir.model.fields,field_description:business_requirement_deliverable_resource_template.field_business_requirement_resource_template_name
+#, fuzzy
+msgid "Name"
+msgstr "名称"
+
+#. module: business_requirement_deliverable_resource_template
+#: selection:business.requirement.resource.template,resource_type:0
+msgid "Procurement"
+msgstr "操作"
+
+#. module: business_requirement_deliverable_resource_template
+#: model:ir.model.fields,field_description:business_requirement_deliverable_resource_template.field_business_requirement_resource_template_product_id
+#: model:ir.model.fields,field_description:business_requirement_deliverable_resource_template.field_business_requirement_resource_template_product_template_id
+msgid "Product"
+msgstr "产品"
+
+#. module: business_requirement_deliverable_resource_template
+#: model:ir.model,name:business_requirement_deliverable_resource_template.model_product_template
+msgid "Product Template"
+msgstr "产品模版"
+
+#. module: business_requirement_deliverable_resource_template
+#: model:ir.model.fields,field_description:business_requirement_deliverable_resource_template.field_business_requirement_resource_template_qty
+#, fuzzy
+msgid "Quantity"
+msgstr "数量"
+
+#. module: business_requirement_deliverable_resource_template
+#: model:ir.model.fields,field_description:business_requirement_deliverable_resource_template.field_business_requirement_resource_template_sequence
+msgid "Sequence"
+msgstr "顺序"
+
+#. module: business_requirement_deliverable_resource_template
+#: selection:business.requirement.resource.template,resource_type:0
+msgid "Task"
+msgstr "任务"
+
+#. module: business_requirement_deliverable_resource_template
+#: model:ir.model.fields,field_description:business_requirement_deliverable_resource_template.field_business_requirement_resource_template_resource_type
+msgid "Type"
+msgstr "类型"
+
+#. module: business_requirement_deliverable_resource_template
+#: model:ir.model.fields,field_description:business_requirement_deliverable_resource_template.field_business_requirement_resource_template_uom_id
+msgid "UoM"
+msgstr "产品单位数量"
+
+#. module: business_requirement_deliverable_resource_template
+#: code:addons/business_requirement_deliverable_resource_template/models/business_requirement_resource_template.py:86
+#, fuzzy, python-format
+msgid "When resource type is task, the UoM category should be time"
+msgstr "当资源类型是任务时，uom类别应该是时间"
+
+#. module: business_requirement_deliverable_resource_template
+#: model:ir.model,name:business_requirement_deliverable_resource_template.model_business_requirement_resource_template
+msgid "business.requirement.resource.template"
+msgstr ""

@@ -1,0 +1,487 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* business_requirement
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 10.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"X-Generator: Poedit 2.2.1\n"
+"Last-Translator: \n"
+"Language: zh_CN\n"
+
+#. module: business_requirement
+#: model:ir.actions.act_window,name:business_requirement.action_view_tasks_business_requirement
+msgid "Action Tasks Related BR"
+msgstr "行动任务相关BR"
+
+#. module: business_requirement
+#: model:ir.ui.view,arch_db:business_requirement.layout_br_base
+msgid "Approval"
+msgstr "批准"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_approval_date
+msgid "Approval Date"
+msgstr "批准日期"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_approved_id
+msgid "Approved by"
+msgstr "审批人"
+
+#. module: business_requirement
+#: model:ir.actions.act_window,name:business_requirement.act_view_project_br_all
+#: model:ir.actions.act_window,name:business_requirement.act_view_sub_br_all
+#: model:ir.actions.act_window,name:business_requirement.action_business_requirement_tree
+#: model:ir.model,name:business_requirement.model_business_requirement
+#: model:ir.module.category,name:business_requirement.module_category_business_requirement
+#: model:ir.ui.menu,name:business_requirement.menu_business_requirement
+#: model:ir.ui.menu,name:business_requirement.menu_business_requirement1
+#: model:ir.ui.menu,name:business_requirement.menu_business_root
+#: model:ir.ui.view,arch_db:business_requirement.view_business_requirement_category_form
+#: model:ir.ui.view,arch_db:business_requirement.view_business_requirement_category_tree
+#: model:ir.ui.view,arch_db:business_requirement.view_business_requirement_form
+#: model:ir.ui.view,arch_db:business_requirement.view_business_requirement_graph
+#: model:ir.ui.view,arch_db:business_requirement.view_business_requirement_pivot
+#: model:ir.ui.view,arch_db:business_requirement.view_business_requirement_search
+#: model:ir.ui.view,arch_db:business_requirement.view_business_requirement_tree
+msgid "Business Requirement"
+msgstr "业务需求"
+
+#. module: business_requirement
+#: model:ir.ui.view,arch_db:business_requirement.br_report
+msgid "Business Requirement Document"
+msgstr "业务需求文件"
+
+#. module: business_requirement
+#: model:res.groups,name:business_requirement.group_business_requirement_manager
+msgid "Business Requirement Manager"
+msgstr "业务需求管理器"
+
+#. module: business_requirement
+#: model:ir.actions.report.xml,name:business_requirement.business_requirement_report
+msgid "Business Requirement Report"
+msgstr "业务需求报告"
+
+#. module: business_requirement
+#: model:res.groups,name:business_requirement.group_business_requirement_stakeholder
+msgid "Business Requirement Stakeholder"
+msgstr "业务需求利益相关者"
+
+#. module: business_requirement
+#: model:res.groups,name:business_requirement.group_business_requirement_user
+msgid "Business Requirement User"
+msgstr "业务需求的用户"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_project_project_br_ids
+msgid "Business Requirements"
+msgstr "业务需求"
+
+#. module: business_requirement
+#: model:ir.actions.act_window,name:business_requirement.action_business_requirement_category_tree
+#: model:ir.model,name:business_requirement.model_business_requirement_category
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_category_ids
+#: model:ir.ui.menu,name:business_requirement.menu_business_requirement_category
+msgid "Categories"
+msgstr "类别"
+
+#. module: business_requirement
+#: model:ir.ui.view,arch_db:business_requirement.layout_br_base
+msgid "Category"
+msgstr "类别"
+
+#. module: business_requirement
+#: model:ir.ui.view,arch_db:business_requirement.layout_br_base
+msgid "Change Request"
+msgstr "变更请求"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_change_request
+msgid "Change Request?"
+msgstr "变更请求"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_company_id
+msgid "Company"
+msgstr "公司"
+
+#. module: business_requirement
+#: model:ir.ui.menu,name:business_requirement.menu_business_configuration
+msgid "Configuration"
+msgstr "配置"
+
+#. module: business_requirement
+#: model:ir.ui.view,arch_db:business_requirement.layout_br_base
+msgid "Confirmation"
+msgstr "确认"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_confirmation_date
+msgid "Confirmation Date"
+msgstr "确认日期"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_confirmed_id
+msgid "Confirmed by"
+msgstr "确认人"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_sub_br_count
+msgid "Count"
+msgstr "计数"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_category_create_uid
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_create_uid
+msgid "Created by"
+msgstr "创建者"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_category_create_date
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_create_date
+msgid "Created on"
+msgstr "创建时间"
+
+#. module: business_requirement
+#: model:ir.ui.view,arch_db:business_requirement.layout_br_base
+msgid "Creation"
+msgstr "创建"
+
+#. module: business_requirement
+#: model:ir.ui.view,arch_db:business_requirement.view_business_requirement_form
+msgid "Creation Date"
+msgstr "创建日期"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_business_requirement
+msgid "Customer Story"
+msgstr "客户故事"
+
+#. module: business_requirement
+#: model:ir.ui.view,arch_db:business_requirement.layout_br_base
+msgid "Date"
+msgstr "日期"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_description
+msgid "Description"
+msgstr "说明"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_category_display_name
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_display_name
+msgid "Display Name"
+msgstr "显示名称"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_gap
+#: model:ir.ui.view,arch_db:business_requirement.view_business_requirement_form
+msgid "Gap"
+msgstr "间隔"
+
+#. module: business_requirement
+#: model:ir.ui.view,arch_db:business_requirement.layout_br_base
+msgid "Gap:"
+msgstr "间隔:"
+
+#. module: business_requirement
+#: model:ir.ui.view,arch_db:business_requirement.view_business_requirement_search
+msgid "Group By"
+msgstr "分组"
+
+#. module: business_requirement
+#: selection:business.requirement,priority:0
+msgid "High"
+msgstr "高"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_category_id
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_id
+msgid "ID"
+msgstr ""
+
+#. module: business_requirement
+#: selection:business.requirement,kanban_state:0
+msgid "In Progress"
+msgstr "运行中"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_kanban_state
+msgid "Kanban State"
+msgstr "看板状态"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement___last_update
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_category___last_update
+msgid "Last Modified on"
+msgstr "最后修改时间"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_category_write_uid
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_write_uid
+msgid "Last Updated by"
+msgstr "最后更新者"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_category_write_date
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_write_date
+msgid "Last Updated on"
+msgstr "上次更新日期"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_level
+msgid "Level"
+msgstr "层级"
+
+#. module: business_requirement
+#: model:ir.ui.view,arch_db:business_requirement.view_business_requirement_form
+msgid "Logs"
+msgstr "日志"
+
+#. module: business_requirement
+#: selection:business.requirement,priority:0
+msgid "Low"
+msgstr "低"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_project_id
+#: model:ir.ui.view,arch_db:business_requirement.layout_br_base
+msgid "Master Project"
+msgstr "主项目"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_category_name
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_name
+#: model:ir.ui.view,arch_db:business_requirement.view_business_requirement_search
+msgid "Name"
+msgstr "名称"
+
+#. module: business_requirement
+#: model:ir.ui.view,arch_db:business_requirement.layout_br_base
+msgid "No"
+msgstr "否"
+
+#. module: business_requirement
+#: selection:business.requirement,priority:0
+msgid "Normal"
+msgstr "正常"
+
+#. module: business_requirement
+#: model:ir.actions.act_window,help:business_requirement.act_view_project_br_all
+msgid ""
+"Odoo's Business Requirement management allows you to manage the list\n"
+"                of Business requirement from a Stakeholder for efficient "
+"follow up. You can\n"
+"                track progress, discuss on tasks, attach documents, etc."
+msgstr ""
+"业务需求管理允许您管理列表\n"
+"                 利益相关者对业务要求的有效跟进。 您可以\n"
+"                 跟踪进度，讨论任务，附加文档等"
+
+#. module: business_requirement
+#: selection:business.requirement,kanban_state:0
+msgid "On Hold"
+msgstr "等候"
+
+#. module: business_requirement
+#: model:ir.ui.view,arch_db:business_requirement.view_business_requirement_form
+msgid "Other"
+msgstr "其他"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_parent_id
+msgid "Parent"
+msgstr "上级"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_category_parent_id
+msgid "Parent Category"
+msgstr "上级类别"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_priority
+#: model:ir.ui.view,arch_db:business_requirement.view_business_requirement_search
+msgid "Priority"
+msgstr "优先级"
+
+#. module: business_requirement
+#: model:ir.ui.menu,name:business_requirement.menu_product_template_action
+msgid "Products"
+msgstr "产品"
+
+#. module: business_requirement
+#: model:ir.model,name:business_requirement.model_project_project
+#: model:ir.ui.view,arch_db:business_requirement.view_business_requirement_search
+msgid "Project"
+msgstr "项目"
+
+#. module: business_requirement
+#: model:ir.actions.act_window,name:business_requirement.open_view_subproject_all
+msgid "Projects"
+msgstr "项目"
+
+#. module: business_requirement
+#: selection:business.requirement,kanban_state:0
+msgid "Ready for next stage"
+msgstr "为下一阶段做好准备"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_requested_id
+msgid "Requested by"
+msgstr "请求人"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_responsible_id
+#: model:ir.ui.view,arch_db:business_requirement.layout_br_base
+#: model:ir.ui.view,arch_db:business_requirement.view_business_requirement_search
+msgid "Responsible"
+msgstr "响应"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_reviewer_ids
+msgid "Reviewers"
+msgstr "审核人"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_scenario
+#: model:ir.ui.view,arch_db:business_requirement.view_business_requirement_form
+msgid "Scenario"
+msgstr "脚本"
+
+#. module: business_requirement
+#: model:ir.ui.view,arch_db:business_requirement.layout_br_base
+msgid "Scenario:"
+msgstr "脚本:"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_sequence
+msgid "Sequence"
+msgstr "顺序"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_origin
+#: model:ir.ui.view,arch_db:business_requirement.layout_br_base
+#: model:ir.ui.view,arch_db:business_requirement.view_business_requirement_search
+msgid "Source"
+msgstr "来源"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_partner_id
+#: model:ir.ui.view,arch_db:business_requirement.layout_br_base
+#: model:ir.ui.view,arch_db:business_requirement.view_business_requirement_search
+msgid "Stakeholder"
+msgstr "利益相关者"
+
+#. module: business_requirement
+#: model:ir.ui.view,arch_db:business_requirement.view_business_requirement_form
+msgid "Stakeholder Story"
+msgstr "利益相关者故事"
+
+#. module: business_requirement
+#: model:ir.ui.view,arch_db:business_requirement.layout_br_base
+msgid "Stakeholder Story:"
+msgstr "利益相关者故事:"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_state
+#: model:ir.ui.view,arch_db:business_requirement.view_business_requirement_search
+msgid "State"
+msgstr "状态"
+
+#. module: business_requirement
+#: model:ir.ui.view,arch_db:business_requirement.view_business_requirement_form
+msgid "Sub Bus. Req."
+msgstr ""
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_business_requirement_ids
+msgid "Sub Business Requirement"
+msgstr "子需求"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_terms_and_conditions
+#: model:ir.ui.view,arch_db:business_requirement.view_business_requirement_form
+msgid "Terms and Conditions"
+msgstr "条款和条件"
+
+#. module: business_requirement
+#: model:ir.ui.view,arch_db:business_requirement.layout_br_base
+msgid "Terms and Conditions:"
+msgstr "条款和条件:"
+
+#. module: business_requirement
+#: code:addons/business_requirement/tests/test_br.py:90
+#, python-format
+msgid "Test Body"
+msgstr "测试主体"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_test_case
+#: model:ir.ui.view,arch_db:business_requirement.view_business_requirement_form
+msgid "Test Case"
+msgstr "测试用例"
+
+#. module: business_requirement
+#: model:ir.ui.view,arch_db:business_requirement.layout_br_base
+msgid "Test Case:"
+msgstr "测试用例:"
+
+#. module: business_requirement
+#: code:addons/business_requirement/models/business.py:19
+#, python-format
+msgid "There is no default company for the current user!"
+msgstr "当前用户没有缺省公司!"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_to_be_reviewed
+#: model:ir.ui.view,arch_db:business_requirement.view_business_requirement_search
+msgid "To be Reviewed"
+msgstr "需要评审"
+
+#. module: business_requirement
+#: model:ir.ui.view,arch_db:business_requirement.view_business_requirement_search
+msgid "Unread Messages"
+msgstr "未读信息"
+
+#. module: business_requirement
+#: model:ir.ui.view,arch_db:business_requirement.layout_br_base
+msgid "User"
+msgstr "用户"
+
+#. module: business_requirement
+#: model:ir.model.fields,field_description:business_requirement.field_business_requirement_ref
+#: model:ir.ui.view,arch_db:business_requirement.layout_br_base
+msgid "WBS"
+msgstr "WBS"
+
+#. module: business_requirement
+#: model:ir.ui.view,arch_db:business_requirement.layout_br_base
+msgid "Yes"
+msgstr "是"
+
+#. module: business_requirement
+#: code:addons/business_requirement/models/business.py:296
+#: code:addons/business_requirement/models/business.py:306
+#, python-format
+msgid "You can only move to the following stage: draft/confirmed /cancel/drop."
+msgstr "您只能进入以下阶段：草稿/确认/取消/删除。"
+
+#. module: business_requirement
+#: code:addons/business_requirement/models/business.py:313
+#, python-format
+msgid "You can only move to the following stage: draft/confirmed/cancel/drop."
+msgstr "您只能进入以下阶段：草稿/确认/取消/删除。"
+
+#. module: business_requirement
+#: model:ir.ui.view,arch_db:business_requirement.view_business_requirement_kanban_project
+msgid "]&amp;nbsp;"
+msgstr ""
