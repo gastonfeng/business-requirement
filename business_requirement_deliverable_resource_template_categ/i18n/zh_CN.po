@@ -1,0 +1,28 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* business_requirement_deliverable_resource_template_categ
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 10.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"X-Generator: Poedit 2.2.1\n"
+"Last-Translator: \n"
+"Language: zh_CN\n"
+
+#. module: business_requirement_deliverable_resource_template_categ
+#: model:ir.model.fields,field_description:business_requirement_deliverable_resource_template_categ.field_business_requirement_resource_template_categ_id
+msgid "Task Category"
+msgstr "任务类别"
+
+#. module: business_requirement_deliverable_resource_template_categ
+#: model:ir.model,name:business_requirement_deliverable_resource_template_categ.model_business_requirement_resource_template
+msgid "business.requirement.resource.template"
+msgstr ""

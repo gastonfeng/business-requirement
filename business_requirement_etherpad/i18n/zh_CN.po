@@ -1,0 +1,29 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* business_requirement_etherpad
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 10.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"X-Generator: Poedit 2.2.1\n"
+"Last-Translator: \n"
+"Language: zh_CN\n"
+
+#. module: business_requirement_etherpad
+#: model:ir.model,name:business_requirement_etherpad.model_business_requirement
+msgid "Business Requirement"
+msgstr "业务需求"
+
+#. module: business_requirement_etherpad
+#: model:ir.model.fields,field_description:business_requirement_etherpad.field_business_requirement_notes
+#: model:ir.ui.view,arch_db:business_requirement_etherpad.view_business_requirement_form
+msgid "Notes"
+msgstr "备注"
