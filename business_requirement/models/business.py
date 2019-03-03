@@ -7,7 +7,7 @@ from odoo.exceptions import ValidationError
 
 
 class BusinessRequirement(models.Model):
-    _inherit = ['mail.thread', 'ir.needaction_mixin']
+    _inherit = ['mail.thread', 'mail.activity.mixin']
     _name = "business.requirement"
     _description = "Business Requirement"
     _order = 'name desc'
