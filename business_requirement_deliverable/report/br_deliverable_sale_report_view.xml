@@ -27,8 +27,8 @@
     </record>
 
     <menuitem action="action_deliverable_sale_report"
-        id="menu_action_deliverable_sale_report"
-        parent="project.menu_project_report"
-        groups="business_requirement_deliverable.group_business_requirement_estimation"/>
+              id="menu_action_deliverable_sale_report"
+              parent="base.menu_reporting_config"
+              groups="business_requirement_deliverable.group_business_requirement_estimation"/>
 
 </odoo>

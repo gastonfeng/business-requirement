@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
 # © 2017 Elico Corp (https://www.elico-corp.com).
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
-from odoo.tests import common
 from openerp.exceptions import ValidationError
+
 from odoo import _
+from odoo.tests import common
 
 
 @common.at_install(False)

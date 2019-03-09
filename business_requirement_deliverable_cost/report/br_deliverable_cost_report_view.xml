@@ -29,7 +29,7 @@
     </record>
 
     <menuitem action="action_deliverable_cost_report" id="menu_action_deliverable_cost_report"
-        parent="project.menu_project_report"
+              parent="base.menu_reporting_config"
               groups="business_requirement_deliverable_cost.group_business_requirement_cost_control"/>
 
 </odoo>

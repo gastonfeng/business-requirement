@@ -25,6 +25,6 @@
     </record>
 
     <menuitem action="action_deliverable_report" id="menu_action_deliverable_report"
-        parent="project.menu_project_report"/>
+              parent="base.menu_reporting_config"/>
 
 </odoo>
